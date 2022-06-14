@@ -1,39 +1,43 @@
 # LAB - Class 01 - Server Deployment Practice
 
-# Author: Guy Farley
+## Author
 
-# Problem Domain
+Guy Farley
 
-Concise Description of why this app exists
+## Problem Domain
 
-# Links and Resources
+The purpose of this lab is to practice creating and deploying a web server using CI/CD, which will help in future labs (and in the industry).
 
-- ci/cd (GitHub Actions)
-- back-end server url (when applicable)
-- front-end application (when applicable)
+## Links and Resources
 
-# Setup
+<https://gf-server-deploy-dev.herokuapp.com>
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
+<https://gf-server-deploy-prod.herokuapp.com>
 
-# How to initialize/run your application (where applicable)
+<https://github.com/GuyFarley/server-deployment-practice/pull/1>
 
-e.g. npm start
+<!-- CI/CD (GitHub Actions) -->
 
-# How to use your library (where applicable)
+## Setup
 
-# Features / Routes
+<!-- PORT
+DATABASE_URL -->
 
-Feature One: Details of feature
-GET : /hello - specific route to hit
+## How to initialize/run your application (where applicable)
 
-# Tests
+<!-- e.g. npm start -->
 
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+## How to use your library (where applicable)
 
-# UML
+## Features / Routes
 
-Link to an image of the UML for your application and response to events
+<!-- Feature One: Details of feature
+GET : /hello - specific route to hit -->
+
+## Tests
+
+Tests were run using jest
+
+## UML
+
+<!-- Link to an image of the UML for your application and response to events -->
