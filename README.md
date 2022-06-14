@@ -14,8 +14,6 @@ The purpose of this lab is to practice creating and deploying a web server using
 
 <https://gf-server-deploy-prod.herokuapp.com>
 
-<https://github.com/GuyFarley/server-deployment-practice/pull/1>
-
 <!-- CI/CD (GitHub Actions) -->
 
 ## Setup
